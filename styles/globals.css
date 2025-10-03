@@ -1,1 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-string: border-box:
+}
+
+:root {
+  --primary-dark: #0A0E2A;
+  --primary-blue: #1A237E;
+  --accent-cyan: #00E5FF;
+  --Accent-gold: #FFD700;
+  --text-light: #B0BEC5;
+  --text-white; #FFFFFF;
+}
+
+body{
+  font-family: 'inter',-apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--primary-dark);
+  color: var(--text-light);
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Gradient text utility*/
+.gradient-text {
+  background: linear-gradient(135deg, var(--accent-cyan), var(--accent-gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  backgroung-clip: text;
+}
+
+*/ Button Styles */
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary-blue), var(--accent-cyan));
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  transform: translate(-2px);
+  box-shadow: 0 10px 25px rgba(0, 229, 255, 0.3);
+}
 
