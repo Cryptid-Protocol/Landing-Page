@@ -2,7 +2,7 @@ export default function Footer() {
   return(
     <footer style={{
     padding: '3rem 0',
-    borderTop: '1px solid rgba(0, 229, 255, 0.1)'.
+    borderTop: '1px solid rgba(0, 229, 255, 0.1)',
       textAllign: 'center'
 }}>
 <div className="container">
