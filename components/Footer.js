@@ -26,7 +26,7 @@ export default function Footer() {
   Building the future of transparent, community-driven blockchain development
     </p>
 
-<div style={{opacity '0.5', fontSize: '0.9rem'}}>
+<div style={{opacity: '0.5', fontSize: '0.9rem'}}>
   2024 Cryptid Protocol. cryptid.eth
         </div>
       </div>
