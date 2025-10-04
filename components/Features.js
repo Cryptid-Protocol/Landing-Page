@@ -41,8 +41,8 @@ How<span className="gradient-text">Cryptid</span> Works
               background: 'linear-gradient(135deg, rbga(26, 35, 126, 0.1), rgba(0, 229, 255, 0.05))',
               padding: '2rem',
     borderRadius: '12px',
-    border: "1px solid rgba(0, 229, 255, 0.01)',
-      textAllign: 'center',
+    border: '1px solid rgba(0, 229, 255, 0.01)',
+    textAllign: 'center',
     transition: 'all 0.03s ease'
   }}>
     <div style={{
