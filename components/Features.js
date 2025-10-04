@@ -20,7 +20,7 @@ export default function Features() {
     
 
 return (
-  <section style={{padding: '100px 0', background: rgba(10, 14, 42, 0.5)'}}>
+  <section style={{padding: '100px 0', background: 'rgba(10, 14, 42, 0.5)'}}>
     <div className="container">
       <h2 style={{
   textAllign: 'center',
