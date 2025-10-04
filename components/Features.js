@@ -1,4 +1,4 @@
-export default funtion Features() {
+export default function Features() {
   const features = [
     {
       title: "Watch Development",
