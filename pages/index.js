@@ -11,9 +11,9 @@ export default function Home() {
     <title>Cryptidm Protocol - The Visible Blockchain</title>
   <meta name="description" content="Watch development happen in real-time. Earn crypto for building the future." />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect' href="https://fonts.gstatic.com" crossOrgin="true" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossOrgin="true" />
   <lik href="http://fonts.googlrapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" 
-    rel="stylesheet'  />
+    rel="stylesheet"  />
     </Head>
 
   <Header />
