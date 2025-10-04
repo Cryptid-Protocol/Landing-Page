@@ -1,6 +1,6 @@
 export default function HeroSection() {
 return (
-<div clasName="container">
+<div className="container">
 <h1>Cryptid Protocol</h1>
 <p>The Visible Blockchain</p>
 <button>Join Waitlist</button>
