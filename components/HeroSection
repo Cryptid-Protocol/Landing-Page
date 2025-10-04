@@ -1,6 +1,5 @@
 export default function HeroSection() {
 return (
-<section style={{padding: '100px 0', textAllign: 'center'}}>
 <div clasName="container">
 <h1>Cryptid Protocol</h1>
 <p>The Visible Blockchain</p>
