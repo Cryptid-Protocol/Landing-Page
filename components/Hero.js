@@ -3,9 +3,10 @@ export default funtion Hero() {
     <section style={{
     padding: '100px 0',
     textAllign: 'center',
-    background: 'radial-gradient(circle at center, rgba(26, 35, 126, 0.1) 0%, transparent 70%)'
+    background: 'radial-gradient(circle at center, rgba(26, 35, 126, 0.1) 0%, transparent 70%)',
+    position 'relative'
   }}>
-<div className="container'>
+<div className="container">
   <h1 style={{
   fontSize: '3.5rem',
   fontWeight: 'bold',
@@ -24,7 +25,7 @@ The{' '}
   maxWidth: '600px', 
   marginLeft: 'auto',
   marginRight: 'auto',
-  opacity: '0.9"
+  opacity: '0.9'
 }}>
   Watch development happen in real-time. Earn crypto for buildingthe future.
   Join the community-driven ecosystem where every commit counts.
@@ -69,7 +70,7 @@ View Demo
   }}></div>
     </div>
     </section>
-)
+);
 }
   
   
