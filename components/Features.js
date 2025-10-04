@@ -15,7 +15,9 @@ export default function Features() {
       description: "vote on features, fund development bounties, and shape the future of the protocol together.",
       icon: "social"
     }
-    ];
+    ]
+
+    
 
 return (
   <section style={{padding: '100px 0', background: rgba(10, 14, 42, 0.5)'}}>
