@@ -22,7 +22,7 @@ export default function Footer() {
   <span style={{fontWeight: 'bold', fontSize: '1.2rem'}}>Cryptid Protocol</span>
   </div>
 
-<p style={{opacity: '0.7' marginBottom: '2rem'}}>
+<p style={{opacity: '0.7', marginBottom: '2rem'}}>
   Building the future of transparent, community-driven blockchain development
     </p>
 
