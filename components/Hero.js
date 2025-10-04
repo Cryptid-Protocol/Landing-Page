@@ -34,10 +34,12 @@ The{' '}
 <div style={{
     display: 'flex',
     gap: '1rem',
-    justifyContent: 'center'
+    justifyContent: 'center',
       flexWrap: 'wrap"
 }}>
-  </button>
+  <button className="btn-primary" style={{fontSize: '1.1rem'}}>
+    Join Waitlist
+    </button>
 <button style={{
   background: 'transparent',
   color: 'var(--accent-cyan)',
@@ -52,7 +54,7 @@ View Demo
     </button>
   </div>
 
-{*/ Hexagonal grid background effect*/}
+{/* Hexagonal grid background effect*/}
 <div style={{
   position: 'absolute',
   top: '50%',
