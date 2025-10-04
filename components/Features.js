@@ -25,7 +25,7 @@ return (
       <h2 style={{
   textAllign: 'center',
   fontSize: '2.5rem',
-  margin:Bottom: '3rem',
+  marginBottom: '3rem',
   fontWeight: 'bold'
 }}>
 How<span className="gradient-text">Cryptid</span> Works
