@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
     <Head>
-    <title>Cryptidm Protocol - The Visible Blockchain</title>
+    <title>Cryptid Protocol - The Visible Blockchain</title>
   <meta name="description" content="Watch development happen in real-time. Earn crypto for building the future." />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossOrgin="true" />
